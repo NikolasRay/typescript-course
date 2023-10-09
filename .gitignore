@@ -1,2 +1,7 @@
 node_modules/
-/app.js
+*.js
+src/basics.ts
+src/enums.ts
+src/functions.ts
+src/union.ts
+src/classes.ts
