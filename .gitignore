@@ -1,7 +1,2 @@
-node_modules/
-*.js
-src/basics.ts
-src/enums.ts
-src/functions.ts
-src/union.ts
-src/classes.ts
+node_modules
+dist
